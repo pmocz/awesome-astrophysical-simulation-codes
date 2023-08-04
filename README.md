@@ -1,6 +1,11 @@
 # Awesome Astrophysical Simulation Codes [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome astrophysical simulation software
 
+## Contents
+
+- [Code List](#code-list)
+- [Contribute](#contribute)
+
 ## Code List
 
 | Code      | Description | Lang. | Repo | Paper |
@@ -19,7 +24,7 @@ A curated list of awesome astrophysical simulation software
 
 <!---
 
-### Numerical Method
+## Numerical Method
 
 | Code      | Finite Difference | Finite Volume | Finite Element | Spectral | SPH | N-body | Eulerian | ALE | Lagrangian |
 | --------- | :---------------: | :-----------: | :------------: | :------: | :-: | :----: | :------: | :-: | :--------: |
@@ -37,7 +42,7 @@ A curated list of awesome astrophysical simulation software
 
 
 
-### Physics
+## Physics
 
 | Code      | Hydrodynamics | MHD | Radiation | Self-Gravity | General-Relativity |
 | --------- | :-----------: | :-: |:--------: | :----------: | :----------------: |
@@ -53,7 +58,7 @@ A curated list of awesome astrophysical simulation software
 | RAMSES    |               |     |           |              |                    |
 | REBOUND   |               |     |           |              |                    |
 
-### High-Performance Features
+## High-Performance Features
 
 | Code      | MPI | GPU |
 | --------- | :-: | :-: |
