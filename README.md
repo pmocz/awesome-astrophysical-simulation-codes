@@ -38,8 +38,8 @@ A curated list of awesome astrophysical simulation software
 | FLASH     |                   | 🟩️️️️️            |                |          |     |        | 🟩️️️️️       |     |            | 🟩️️️️️  |
 | Gadget    |                   |               |                |          | 🟩️️️️️  | 🟩️️️️️     |          |     | 🟩️️️️️         |     |
 | Gizmo     |                   | 🟩️️️️️            |                |          |     | 🟩️️️️️     |          |     | 🟩️️️️️         |     |
-| PHANTPM   |                   |               |                |          | 🟩️️️️️  | 🟩️️     |          |     | 🟩️️️️️         |     |
 | Pencil    | 🟩️️️️️                |               |                |          |     |        | 🟩️️️️️       |     |            |     |
+| PHANTOM   |                   |               |                |          | 🟩️️️️️  | 🟩️️     |          |     | 🟩️️️️️         |     |
 | RAMSES    |                   | 🟩️️️️️            |                |          |     | 🟩️️️️️     | 🟩️️️️️       |     |            | 🟩️️️️️  |
 | REBOUND   |                   |               |                |          |     | 🟩️️️️️     |          |     |            |     |
 
@@ -56,8 +56,8 @@ A curated list of awesome astrophysical simulation software
 | FLASH     | 🟩️            | 🟩️  | 🟩️        | 🟩️           |                    |
 | Gadget    | 🟩️            |     |           | 🟩️           |                    |
 | Gizmo     | 🟩️            | 🟩️  | 🟩️        | 🟩️           |                    |
-| PHANTOM   | 🟩️            |     |           | 🟩️           |                    |
 | Pencil    | 🟩️            | 🟩️  |           | 🟩️           |                    |
+| PHANTOM   | 🟩️            |     |           | 🟩️           |                    |
 | RAMSES    | 🟩️            | 🟩️  | 🟩️        | 🟩️           |                    |
 | REBOUND   |               |     |           | 🟩️           |                    |
 
@@ -74,8 +74,8 @@ A curated list of awesome astrophysical simulation software
 | FLASH     | 🟩️  |     | 
 | Gadget    | 🟩️  |     | 
 | Gizmo     | 🟩️  |     | 
-| PHANTPM   | 🟩️  |     | 
 | Pencil    | 🟩️  |     | 
+| PHANTOM   | 🟩️  |     | 
 | RAMSES    | 🟩️  |     | 
 | REBOUND   | 🟩️  |     |
 
