@@ -3,8 +3,8 @@ A curated list of awesome astrophysical simulation software
 
 | Code      | Description | Lang. | Repo | Paper |
 | --------- | ----------- | ----- |----- | ----- |
-| [Athena++](https://www.athena-astro.app/)  | Radiation GRMHD code and adaptive mesh refinement (AMR) framework. | [![](https://skillicons.dev/icons?i=cpp)](http://www.cplusplus.com/)   | [![](https://skillicons.dev/icons?i=github)](https://github.com/PrincetonUniversity/athena) | [📝](https://iopscience.iop.org/article/10.3847/1538-4365/ab929b)  |
-| Arepo     | Moving Voronoi mesh cosmological simulation code.                  | [![](https://skillicons.dev/icons?i=c)](https://www.cprogramming.com/) | [![](https://skillicons.dev/icons?i=gitlab)](https://gitlab.mpcdf.mpg.de/vrs/arepo) | |
+| [Athena++](https://www.athena-astro.app/) | Radiation GRMHD code and adaptive mesh refinement (AMR) framework. | [![](https://skillicons.dev/icons?i=cpp)](http://www.cplusplus.com/)   | [![](https://skillicons.dev/icons?i=github)](https://github.com/PrincetonUniversity/athena) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2020ApJS..249....4S/abstract)  |
+| [Arepo](https://arepo-code.org/wp-content/userguide/index.html) | Massively parallel moving Voronoi mesh cosmological simulation code. | [![](https://skillicons.dev/icons?i=c)](https://www.cprogramming.com/) | [![](https://skillicons.dev/icons?i=gitlab)](https://gitlab.mpcdf.mpg.de/vrs/arepo) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2010MNRAS.401..791S/abstract) |
 | Dedalus   |  |  |  |  |
 | Enzo      |  |  |  |  |
 | Gadget    |  |  |  |  |
@@ -13,12 +13,6 @@ A curated list of awesome astrophysical simulation software
 | RAMSES    |  |  |  |  |
 | [REBOUND](https://rebound.readthedocs.io/en/latest/)   |  |  |  |  |
 
-
-[Athena++](https://github.com/PrincetonUniversity/athena) - Radiation GRMHD code and adaptive mesh refinement (AMR) framework. 
-  (C++)
-
-[Arepo](https://github.com/dnelson86/arepo) - Moving Voronoi mesh cosmological simulation code.
-  (C)
 
 ## Contribute
 
