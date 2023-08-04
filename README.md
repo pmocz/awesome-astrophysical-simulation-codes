@@ -7,6 +7,7 @@ A curated list of awesome astrophysical simulation software
 | --------- | ----------- | ----- |----- | ----- |
 | [Athena++](https://www.athena-astro.app/) | Radiation GRMHD code and adaptive mesh refinement (AMR) framework. | [![](https://skillicons.dev/icons?i=cpp)](http://www.cplusplus.com/)   | [![](https://skillicons.dev/icons?i=github)](https://github.com/PrincetonUniversity/athena) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2020ApJS..249....4S/abstract)  |
 | [Arepo](https://arepo-code.org/) | Massively parallel moving Voronoi mesh cosmological simulation code. | [![](https://skillicons.dev/icons?i=c)](https://www.cprogramming.com/) | [![](https://skillicons.dev/icons?i=gitlab)](https://gitlab.mpcdf.mpg.de/vrs/arepo) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2010MNRAS.401..791S/abstract) |
+| Cholla    |  |  |  |  |
 | [Dedalus](https://dedalus-project.org/) | Flexible framework for solving PDEs with modern spectral methods. | [![](https://skillicons.dev/icons?i=python)](https://www.python.org/) | [![](https://skillicons.dev/icons?i=github)](https://github.com/DedalusProject/dedalus) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2020PhRvR...2b3068B/abstract)  |
 | Enzo      |  |  |  |  |
 | FLASH     |  |  |  |  |
@@ -22,6 +23,7 @@ A curated list of awesome astrophysical simulation software
 | --------- | :---------------: | :-----------: | :------------: | :------: | :-: | :----: | :------: | :-: | :--------: |
 | Athena++  |                   | ✔️             |                |          |     |        | ✔️        |     |            |
 | Arepo     |                   | ✔             |                |          |     | ✔️      |          | ✔️   |            |
+| Cholla    |                   | ✔             |                |          |     |        | ✔️        |     |            |
 | Dedalus   |                   |               |                | ✔️        |     |        | ✔️        |     |            |
 | Enzo      |                   |               |                |          |     |        |          |     |            |
 | FLASH     |                   |               |                |          |     |        |          |     |            |
@@ -36,9 +38,10 @@ A curated list of awesome astrophysical simulation software
 ### Physics
 
 | Code      | Hydrodynamics | MHD | Radiation | Self-Gravity | General-Relativity |
-| --------- | ------------- | --- |---------- | ------------ | ------------------ |
+| --------- | :-----------: | :-: |:--------: | :----------: | :----------------: |
 | Athena++  | ✔️             | ✔️   | ✔️         | ✔️            | ✔️                  |
 | Arepo     | ✔️             | ✔️   | ✔️         | ✔️            |                    |
+| Cholla    |               |     |           |              |                    |
 | Dedalus   |               |     |           |              |                    |
 | Enzo      |               |     |           |              |                    |
 | FLASH     |               |     |           |              |                    |
@@ -49,6 +52,20 @@ A curated list of awesome astrophysical simulation software
 | REBOUND   |               |     |           |              |                    |
 
 ### High-Performance Features
+
+| Code      | MPI | GPU |
+| --------- | :-: | :-: |
+| Athena++  | ✔️   |     | 
+| Arepo     | ✔️   |     | 
+| Cholla    | ✔️   | ✔️   |
+| Dedalus   |     |     | 
+| Enzo      |     |     | 
+| FLASH     |     |     | 
+| Gadget    |     |     | 
+| Gizmo     |     |     | 
+| Pencil    |     |     | 
+| RAMSES    |     |     | 
+| REBOUND   |     |     |
 
 ## Contribute
 
