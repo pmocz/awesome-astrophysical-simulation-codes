@@ -1,16 +1,17 @@
 # Awesome Astrophysical Simulation Codes [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome astrophysical simulation software
 
-| Code      | Description | Lang. | Repo | Website | Paper |
-| --------- | ----------- | -------- |----- | ------- | ----- |
-| Athena++  | Radiation GRMHD code and adaptive mesh refinement (AMR) framework. | [![](https://skillicons.dev/icons?i=cpp)](http://www.cplusplus.com/)   | [![](https://skillicons.dev/icons?i=github)](https://github.com/PrincetonUniversity/athena) | [🌐](https://www.athena-astro.app/)  | [📝](https://iopscience.iop.org/article/10.3847/1538-4365/ab929b)  |
+| Code      | Description | Lang. | Repo | Paper |
+| --------- | ----------- | ----- |----- | ----- |
+| [Athena++](https://www.athena-astro.app/)  | Radiation GRMHD code and adaptive mesh refinement (AMR) framework. | [![](https://skillicons.dev/icons?i=cpp)](http://www.cplusplus.com/)   | [![](https://skillicons.dev/icons?i=github)](https://github.com/PrincetonUniversity/athena) | [📝](https://iopscience.iop.org/article/10.3847/1538-4365/ab929b)  |
 | Arepo     | Moving Voronoi mesh cosmological simulation code.                  | [![](https://skillicons.dev/icons?i=c)](https://www.cprogramming.com/) | [![](https://skillicons.dev/icons?i=gitlab)](https://gitlab.mpcdf.mpg.de/vrs/arepo) | |
-| Enzo      |  |  |  |  |  |
-| Gadget    |  |  |  |  |  |
-| Gizmo     |  |  |  |  |  |
-| FLASH     |  |  |  |  |  |
-| RAMSES    |  |  |  |  |  |
-
+| Dedalus   |  |  |  |  |
+| Enzo      |  |  |  |  |
+| Gadget    |  |  |  |  |
+| Gizmo     |  |  |  |  |
+| FLASH     |  |  |  |  |
+| RAMSES    |  |  |  |  |
+| [REBOUND](https://rebound.readthedocs.io/en/latest/)   |  |  |  |  |
 
 
 [Athena++](https://github.com/PrincetonUniversity/athena) - Radiation GRMHD code and adaptive mesh refinement (AMR) framework. 
