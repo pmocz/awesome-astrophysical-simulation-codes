@@ -5,6 +5,8 @@ A curated list of awesome astrophysical simulation software
 
 - [Code List](#code-list)
 - [Numerical Method](#numerical-method)
+- [Physics](#physics)
+- [High-Performance Features](#high-performance-features)
 - [Contribute](#contribute)
 
 ## Code List
@@ -39,7 +41,6 @@ A curated list of awesome astrophysical simulation software
 | RAMSES    |                   | 🟩️️️️️            |                |          |     | 🟩️️️️️     | 🟩️️️️️       |     |            | 🟩️️️️️  |
 | REBOUND   |                   |               |                |          |     | 🟩️️️️️     |          |     |            |     |
 
-<!---
 
 ## Physics
 
@@ -47,15 +48,16 @@ A curated list of awesome astrophysical simulation software
 | --------- | :-----------: | :-: |:--------: | :----------: | :----------------: |
 | Athena++  | 🟩️️️️️            | 🟩️️️️️  | 🟩️️️️️        | 🟩️️️️️           | 🟩️️️️️                 |
 | Arepo     | 🟩️️️️️            | 🟩️️️️️  | 🟩️️️️️        | 🟩️️️️️           |                    |
-| Cholla    |               |     |           |              |                    |
-| Dedalus   |               |     |           |              |                    |
-| Enzo      |               |     |           |              |                    |
-| FLASH     |               |     |           |              |                    |
-| Gadget    |               |     |           |              |                    |
-| Gizmo     |               |     |           |              |                    |
-| Pencil    |               |     |           |              |                    |
-| RAMSES    |               |     |           |              |                    |
-| REBOUND   |               |     |           |              |                    |
+| Cholla    | 🟩️            |     | 🟩️        | 🟩️           |                    |
+| Dedalus   | 🟩️            | 🟩️  |           | 🟩️           |                    |
+| Enzo      | 🟩️            | 🟩️  | 🟩️        | 🟩️           |                    |
+| FLASH     | 🟩️            | 🟩️  | 🟩️        | 🟩️           |                    |
+| Gadget    | 🟩️            |     |           | 🟩️           |                    |
+| Gizmo     | 🟩️            | 🟩️  | 🟩️        | 🟩️           |                    |
+| Pencil    | 🟩️            | 🟩️  |           | 🟩️           |                    |
+| RAMSES    | 🟩️            | 🟩️  | 🟩️        | 🟩️           |                    |
+| REBOUND   |               |     |           | 🟩️           |                    |
+
 
 ## High-Performance Features
 
@@ -64,16 +66,15 @@ A curated list of awesome astrophysical simulation software
 | Athena++  | 🟩️️️️️  |     | 
 | Arepo     | 🟩️️️️️  |     | 
 | Cholla    | 🟩️️️️️  | 🟩️️️️️  |
-| Dedalus   |     |     | 
-| Enzo      |     |     | 
-| FLASH     |     |     | 
-| Gadget    |     |     | 
-| Gizmo     |     |     | 
-| Pencil    |     |     | 
-| RAMSES    |     |     | 
-| REBOUND   |     |     |
+| Dedalus   | 🟩️  |     | 
+| Enzo      | 🟩️  |     | 
+| FLASH     | 🟩️  |     | 
+| Gadget    | 🟩️  |     | 
+| Gizmo     | 🟩️  |     | 
+| Pencil    | 🟩️  |     | 
+| RAMSES    | 🟩️  |     | 
+| REBOUND   | 🟩️  |     |
 
--->
 
 ## Contribute
 
