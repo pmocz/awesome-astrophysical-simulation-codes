@@ -7,14 +7,14 @@ A curated list of awesome astrophysical simulation software
 | --------- | ----------- | ----- |----- | ----- |
 | [Athena++](https://www.athena-astro.app/) | Radiation GRMHD code and adaptive mesh refinement (AMR) framework. | [![](https://skillicons.dev/icons?i=cpp)](http://www.cplusplus.com/)   | [![](https://skillicons.dev/icons?i=github)](https://github.com/PrincetonUniversity/athena) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2020ApJS..249....4S/abstract)  |
 | [Arepo](https://arepo-code.org/) | Massively parallel moving Voronoi mesh cosmological simulation code. | [![](https://skillicons.dev/icons?i=c)](https://www.cprogramming.com/) | [![](https://skillicons.dev/icons?i=gitlab)](https://gitlab.mpcdf.mpg.de/vrs/arepo) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2010MNRAS.401..791S/abstract) |
-| [Cholla]()    | GPU-based hydro code | [![](https://skillicons.dev/icons?i=cpp)](http://www.cplusplus.com/)  | [![](https://skillicons.dev/icons?i=github)](https://github.com/cholla-hydro/cholla) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2016ascl.soft07006S/abstract) |
+| [Cholla](https://github.com/cholla-hydro/cholla/wiki) | GPU-based hydro code, | [![](https://skillicons.dev/icons?i=cpp)](http://www.cplusplus.com/)  | [![](https://skillicons.dev/icons?i=github)](https://github.com/cholla-hydro/cholla) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2016ascl.soft07006S/abstract) |
 | [Dedalus](https://dedalus-project.org/) | Flexible framework for solving PDEs with modern spectral methods. | [![](https://skillicons.dev/icons?i=python)](https://www.python.org/) | [![](https://skillicons.dev/icons?i=github)](https://github.com/DedalusProject/dedalus) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2020PhRvR...2b3068B/abstract)  |
-| Enzo      |  |  |  |  |
-| FLASH     |  |  |  |  |
-| Gadget    |  |  |  |  |
-| Gizmo     |  |  |  |  |
-| Pencil    |  |  |  |  |
-| RAMSES    |  |  |  |  |
+| [Enzo](https://enzo-project.org/) | An Adaptive Mesh Refinement Code for Astrophysics. | C | https://github.com/enzo-project/enzo-dev | https://ui.adsabs.harvard.edu/abs/2014ApJS..211...19B/abstract |
+| [FLASH](https://flash.rochester.edu/site/flashcode/) | An Adaptive Mesh Hydrodynamics Code for Modeling Astrophysical Thermonuclear Flashes. |  |  | https://ui.adsabs.harvard.edu/abs/2000ApJS..131..273F/abstract |
+| [Gadget]() |  |  |  |  |
+| [Gizmo]() |  |  |  |  |
+| [Pencil]() |  |  |  |  |
+| [RAMSES]() |  |  |  |  |
 | [REBOUND](https://rebound.readthedocs.io/en/latest/)   |  |  |  |  |
 
 ### Numerical Method
