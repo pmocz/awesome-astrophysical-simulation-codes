@@ -27,17 +27,17 @@ A curated list of awesome astrophysical simulation software
 
 | Code      | Finite Difference | Finite Volume | Finite Element | Spectral | SPH | N-body | Eulerian | ALE | Lagrangian | AMR |
 | --------- | :---------------: | :-----------: | :------------: | :------: | :-: | :----: | :------: | :-: | :--------: | :-: |
-| Athena++  |                   | ✔️             |                |          |     |        | ✔️        |     |            | ✔️   |
-| Arepo     |                   | ✔             |                |          |     | ✔️      |          | ✔️   |            |     |
-| Cholla    |                   | ✔             |                |          |     |        | ✔️        |     |            |     |
-| Dedalus   |                   |               |                | ✔️        |     |        | ✔️        |     |            |     |
-| Enzo      |                   | ✔️             |                |          |     |        | ✔️        |     |            | ✔️   |
-| FLASH     |                   | ✔️             |                |          |     |        | ✔️        |     |            | ✔️   |
-| Gadget    |                   |               |                |          | ✔️   | ✔️      |          |     | ✔️          |     |
-| Gizmo     |                   | ✔️             |                |          |     | ✔️      |          |     | ✔️          |     |
-| Pencil    | ✔️                 |               |                |          |     |        | ✔️        |     |            |     |
-| RAMSES    |                   | ✔️             |                |          |     | ✔️      | ✔️        |     |            | ✔️   |
-| REBOUND   |                   |               |                |          |     | ✔️      |          |     |            |     |
+| Athena++  |                   | ✔             |                |          |     |        | ✔        |     |            | ✔   |
+| Arepo     |                   | ✔             |                |          |     | ✔      |          | ✔   |            |     |
+| Cholla    |                   | ✔             |                |          |     |        | ✔        |     |            |     |
+| Dedalus   |                   |               |                | ✔        |     |        | ✔        |     |            |     |
+| Enzo      |                   | ✔             |                |          |     |        | ✔        |     |            | ✔   |
+| FLASH     |                   | ✔             |                |          |     |        | ✔        |     |            | ✔   |
+| Gadget    |                   |               |                |          | ✔   | ✔      |          |     | ✔          |     |
+| Gizmo     |                   | ✔             |                |          |     | ✔      |          |     | ✔          |     |
+| Pencil    | ✔                 |               |                |          |     |        | ✔        |     |            |     |
+| RAMSES    |                   | ✔             |                |          |     | ✔      | ✔        |     |            | ✔   |
+| REBOUND   |                   |               |                |          |     | ✔      |          |     |            |     |
 
 <!---
 
@@ -45,8 +45,8 @@ A curated list of awesome astrophysical simulation software
 
 | Code      | Hydrodynamics | MHD | Radiation | Self-Gravity | General-Relativity |
 | --------- | :-----------: | :-: |:--------: | :----------: | :----------------: |
-| Athena++  | ✔️             | ✔️   | ✔️         | ✔️            | ✔️                  |
-| Arepo     | ✔️             | ✔️   | ✔️         | ✔️            |                    |
+| Athena++  | ✔             | ✔   | ✔         | ✔            | ✔                  |
+| Arepo     | ✔             | ✔   | ✔         | ✔            |                    |
 | Cholla    |               |     |           |              |                    |
 | Dedalus   |               |     |           |              |                    |
 | Enzo      |               |     |           |              |                    |
@@ -61,9 +61,9 @@ A curated list of awesome astrophysical simulation software
 
 | Code      | MPI | GPU |
 | --------- | :-: | :-: |
-| Athena++  | ✔️   |     | 
-| Arepo     | ✔️   |     | 
-| Cholla    | ✔️   | ✔️   |
+| Athena++  | ✔   |     | 
+| Arepo     | ✔   |     | 
+| Cholla    | ✔   | ✔   |
 | Dedalus   |     |     | 
 | Enzo      |     |     | 
 | FLASH     |     |     | 
