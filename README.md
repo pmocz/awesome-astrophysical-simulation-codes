@@ -4,6 +4,7 @@ A curated list of awesome astrophysical simulation software
 ## Contents
 
 - [Code List](#code-list)
+- [Numerical Method](#numerical-method)
 - [Contribute](#contribute)
 
 ## Code List
@@ -22,25 +23,23 @@ A curated list of awesome astrophysical simulation software
 | [RAMSES](https://bytebucket.org/rteyssie/ramses/wiki/ramses_ug.pdf?rev=b6b7fef09b8bfe0d1e27c7d0c9edd584ec12768e) | Code to model astrophysical systems, featuring self-gravitating, magnetized, compressible, radiative fluid flows. | ![](https://skillicons.dev/icons?i=fortran) | [![](https://skillicons.dev/icons?i=github)](https://github.com/miried/ramses) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2002A%26A...385..337T/abstract) |
 | [REBOUND](https://rebound.readthedocs.io/en/latest/) | Open-source multi-purpose N-body code. | ![](https://skillicons.dev/icons?i=c) | [![](https://skillicons.dev/icons?i=github)](https://github.com/hannorein/rebound) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2012A%26A...537A.128R/abstract) |
 
-<!---
-
 ## Numerical Method
 
-| Code      | Finite Difference | Finite Volume | Finite Element | Spectral | SPH | N-body | Eulerian | ALE | Lagrangian |
-| --------- | :---------------: | :-----------: | :------------: | :------: | :-: | :----: | :------: | :-: | :--------: |
-| Athena++  |                   | ✔️             |                |          |     |        | ✔️        |     |            |
-| Arepo     |                   | ✔             |                |          |     | ✔️      |          | ✔️   |            |
-| Cholla    |                   | ✔             |                |          |     |        | ✔️        |     |            |
-| Dedalus   |                   |               |                | ✔️        |     |        | ✔️        |     |            |
-| Enzo      |                   |               |                |          |     |        |          |     |            |
-| FLASH     |                   |               |                |          |     |        |          |     |            |
-| Gadget    |                   |               |                |          |     |        |          |     |            |
-| Gizmo     |                   |               |                |          |     |        |          |     |            |
-| Pencil    |                   |               |                |          |     |        |          |     |            |
-| RAMSES    |                   |               |                |          |     |        |          |     |            |
-| REBOUND   |                   |               |                |          |     |        |          |     |            |
+| Code      | Finite Difference | Finite Volume | Finite Element | Spectral | SPH | N-body | Eulerian | ALE | Lagrangian | AMR |
+| --------- | :---------------: | :-----------: | :------------: | :------: | :-: | :----: | :------: | :-: | :--------: | :-: |
+| Athena++  |                   | ✔️             |                |          |     |        | ✔️        |     |            | ✔️   |
+| Arepo     |                   | ✔             |                |          |     | ✔️      |          | ✔️   |            |     |
+| Cholla    |                   | ✔             |                |          |     |        | ✔️        |     |            |     |
+| Dedalus   |                   |               |                | ✔️        |     |        | ✔️        |     |            |     |
+| Enzo      |                   | ✔️             |                |          |     |        | ✔️        |     |            | ✔️   |
+| FLASH     |                   | ✔️             |                |          |     |        | ✔️        |     |            | ✔️   |
+| Gadget    |                   |               |                |          | ✔️   | ✔️      |          |     | ✔️          |     |
+| Gizmo     |                   | ✔️             |                |          |     | ✔️      |          |     | ✔️          |     |
+| Pencil    | ✔️                 |               |                |          |     |        | ✔️        |     |            |     |
+| RAMSES    |                   | ✔️             |                |          |     | ✔️      | ✔️        |     |            | ✔️   |
+| REBOUND   |                   |               |                |          |     | ✔️      |          |     |            |     |
 
-
+<!---
 
 ## Physics
 
