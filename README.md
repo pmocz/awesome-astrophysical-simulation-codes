@@ -41,7 +41,7 @@ A curated list of awesome astrophysical simulation software
 | Gizmo     |                   | 🟩️️️️️            |                |          |     | 🟩️️️️️     |          |     | 🟩️️️️️         |     |
 | Pencil    | 🟩️️️️️                |               |                |          |     |        | 🟩️️️️️       |     |            |     |
 | PHANTOM   |                   |               |                |          | 🟩️️️️️  | 🟩️️     |          |     | 🟩️️️️️         |     |
-| QUOKKA    |                   | 🟩️️️️️            |                |          |     |        | 🟩️️️️️       |     |            |     |
+| QUOKKA    |                   | 🟩️️️️️            |                |          |     |        | 🟩️️️️️       |     |            | ️️️️️️️️🟩️️️️️  |
 | RAMSES    |                   | 🟩️️️️️            |                |          |     | 🟩️️️️️     | 🟩️️️️️       |     |            | 🟩️️️️️  |
 | REBOUND   |                   |               |                |          |     | 🟩️️️️️     |          |     |            |     |
 
