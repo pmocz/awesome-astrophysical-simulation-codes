@@ -13,8 +13,8 @@ A curated list of awesome astrophysical simulation software
 
 | Code      | Description | Lang. | Repo | Paper |
 | --------- | ----------- | ----- |----- | ----- |
-| [Athena++](https://www.athena-astro.app/) | Radiation GRMHD code and adaptive mesh refinement (AMR) framework. | ![](https://skillicons.dev/icons?i=cpp)   | [![](https://skillicons.dev/icons?i=github)](https://github.com/PrincetonUniversity/athena) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2020ApJS..249....4S/abstract)  |
 | [Arepo](https://arepo-code.org/) | Massively parallel moving Voronoi mesh cosmological simulation code. | ![](https://skillicons.dev/icons?i=c) | [![](https://skillicons.dev/icons?i=gitlab)](https://gitlab.mpcdf.mpg.de/vrs/arepo) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2010MNRAS.401..791S/abstract) |
+| [Athena++](https://www.athena-astro.app/) | Radiation GRMHD code and adaptive mesh refinement (AMR) framework. | ![](https://skillicons.dev/icons?i=cpp)   | [![](https://skillicons.dev/icons?i=github)](https://github.com/PrincetonUniversity/athena) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2020ApJS..249....4S/abstract)  |
 | [ChaNGa](https://faculty.washington.edu/trq/hpcc/tools/changa.html) | Charm N-body Gravity solver and SPH. | ![](https://skillicons.dev/icons?i=c)  | [![](https://skillicons.dev/icons?i=github)](https://github.com/N-BodyShop/changa) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2011ascl.soft05005N/abstract) |
 | [Cholla](https://github.com/cholla-hydro/cholla/wiki) | GPU-based hydro code. | ![](https://skillicons.dev/icons?i=cpp)  | [![](https://skillicons.dev/icons?i=github)](https://github.com/cholla-hydro/cholla) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2016ascl.soft07006S/abstract) |
 | [Dedalus](https://dedalus-project.org/) | Flexible framework for solving PDEs with modern spectral methods. | ![](https://skillicons.dev/icons?i=python) | [![](https://skillicons.dev/icons?i=github)](https://github.com/DedalusProject/dedalus) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2020PhRvR...2b3068B/abstract)  |
@@ -32,8 +32,8 @@ A curated list of awesome astrophysical simulation software
 
 | Code      | Finite Difference | Finite Volume | Finite Element | Spectral | SPH | N-body | Eulerian | ALE | Lagrangian | AMR |
 | --------- | :---------------: | :-----------: | :------------: | :------: | :-: | :----: | :------: | :-: | :--------: | :-: |
-| Athena++  |                   | 🟩️️️️️            |                |          |     |        | 🟩️️️️️       |     |            | 🟩️️️️️  |
 | Arepo     |                   | 🟩️️️️️            |                |          |     | 🟩️️️️️     |          | 🟩️️️️️  |            |     |
+| Athena++  |                   | 🟩️️️️️            |                |          |     |        | 🟩️️️️️       |     |            | 🟩️️️️️  |
 | ChaNGa    |                   |               |                |          | 🟩️️️️️  | 🟩️️️️️     |          |     | 🟩️️️️️         |     |
 | Cholla    |                   | 🟩️️️️️            |                |          |     |        | 🟩️️️️️       |     |            |     |
 | Dedalus   |                   |               |                | 🟩️️️️️       |     |        | 🟩️️️️️       |     |            |     |
@@ -52,8 +52,8 @@ A curated list of awesome astrophysical simulation software
 
 | Code      | Hydrodynamics | MHD | Radiation | Self-Gravity | General-Relativity |
 | --------- | :-----------: | :-: |:--------: | :----------: | :----------------: |
-| Athena++  | 🟩️️️️️            | 🟩️️️️️  | 🟩️️️️️        | 🟩️️️️️           | 🟩️️️️️                 |
 | Arepo     | 🟩️️️️️            | 🟩️️️️️  | 🟩️️️️️        | 🟩️️️️️           |                    |
+| Athena++  | 🟩️️️️️            | 🟩️️️️️  | 🟩️️️️️        | 🟩️️️️️           | 🟩️️️️️                 |
 | ChaNGa    | 🟩️            |     |           | 🟩️           |                    |
 | Cholla    | 🟩️            |     | 🟩️        | 🟩️           |                    |
 | Dedalus   | 🟩️            | 🟩️  |           | 🟩️           |                    |
@@ -72,8 +72,8 @@ A curated list of awesome astrophysical simulation software
 
 | Code      | MPI | GPU |
 | --------- | :-: | :-: |
-| Athena++  | 🟩️️️️️  |     | 
 | Arepo     | 🟩️️️️️  |     | 
+| Athena++  | 🟩️️️️️  |     | 
 | ChaNGa    | 🟩️️️️️  |     | 
 | Cholla    | 🟩️️️️️  | 🟩️️️️️  |
 | Dedalus   | 🟩️  |     | 
