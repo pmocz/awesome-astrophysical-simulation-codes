@@ -23,6 +23,7 @@ A curated list of awesome astrophysical simulation software
 | [Gizmo](http://www.tapir.caltech.edu/~phopkins/Site/GIZMO.html) | Flexible, massively-parallel, multi-physics simulation code. | ![](https://skillicons.dev/icons?i=c) | [![](https://skillicons.dev/icons?i=gitlab)](https://bitbucket.org/phopkins/gizmo-public/src/master/) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2015MNRAS.450...53H/abstract) |
 | [Pencil](http://pencil-code.nordita.org/) | High-order finite-difference code for compressible hydrodynamic flows with magnetic fields and particles. | ![](https://skillicons.dev/icons?i=fortran) | [![](https://skillicons.dev/icons?i=github)](https://github.com/pencil-code/pencil-code) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2010ascl.soft10060B/abstract) |
 | [PHANTOM](https://phantomsph.github.io/) | Smoothed particle hydrodynamics and magnetohydrodynamics code for astrophysics. | ![](https://skillicons.dev/icons?i=fortran) | [![](https://skillicons.dev/icons?i=github)](https://github.com/danieljprice/phantom) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2018PASA...35...31P/abstract) |
+| [QUOKKA](https://github.com/quokka-astro/quokka) | First two-moment AMR radiation hydrodynamics on GPUs for astrophysics. | ![](https://skillicons.dev/icons?i=cpp) | [![](https://skillicons.dev/icons?i=github)](https://github.com/quokka-astro/quokka) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2021ascl.soft10009W/abstract) |
 | [RAMSES](https://bytebucket.org/rteyssie/ramses/wiki/ramses_ug.pdf?rev=b6b7fef09b8bfe0d1e27c7d0c9edd584ec12768e) | Code to model astrophysical systems, featuring self-gravitating, magnetized, compressible, radiative fluid flows. | ![](https://skillicons.dev/icons?i=fortran) | [![](https://skillicons.dev/icons?i=github)](https://github.com/miried/ramses) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2002A%26A...385..337T/abstract) |
 | [REBOUND](https://rebound.readthedocs.io/en/latest/) | Open-source multi-purpose N-body code. | ![](https://skillicons.dev/icons?i=c) | [![](https://skillicons.dev/icons?i=github)](https://github.com/hannorein/rebound) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2012A%26A...537A.128R/abstract) |
 
@@ -40,6 +41,7 @@ A curated list of awesome astrophysical simulation software
 | Gizmo     |                   | 🟩️️️️️            |                |          |     | 🟩️️️️️     |          |     | 🟩️️️️️         |     |
 | Pencil    | 🟩️️️️️                |               |                |          |     |        | 🟩️️️️️       |     |            |     |
 | PHANTOM   |                   |               |                |          | 🟩️️️️️  | 🟩️️     |          |     | 🟩️️️️️         |     |
+| QUOKKA    |                   | 🟩️️️️️            |                |          |     |        | 🟩️️️️️       |     |            |     |
 | RAMSES    |                   | 🟩️️️️️            |                |          |     | 🟩️️️️️     | 🟩️️️️️       |     |            | 🟩️️️️️  |
 | REBOUND   |                   |               |                |          |     | 🟩️️️️️     |          |     |            |     |
 
@@ -58,6 +60,7 @@ A curated list of awesome astrophysical simulation software
 | Gizmo     | 🟩️            | 🟩️  | 🟩️        | 🟩️           |                    |
 | Pencil    | 🟩️            | 🟩️  |           | 🟩️           |                    |
 | PHANTOM   | 🟩️            |     |           | 🟩️           |                    |
+| QUOKKA    | 🟩️️️️️            |     | 🟩️️️️️        | 🟩️️️️️           |                    |
 | RAMSES    | 🟩️            | 🟩️  | 🟩️        | 🟩️           |                    |
 | REBOUND   |               |     |           | 🟩️           |                    |
 
@@ -76,6 +79,7 @@ A curated list of awesome astrophysical simulation software
 | Gizmo     | 🟩️  |     | 
 | Pencil    | 🟩️  |     | 
 | PHANTOM   | 🟩️  |     | 
+| QUOKKA    | 🟩️  | 🟩️  |
 | RAMSES    | 🟩️  |     | 
 | REBOUND   | 🟩️  |     |
 
