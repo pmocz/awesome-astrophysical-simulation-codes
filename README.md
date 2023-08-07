@@ -7,6 +7,7 @@ A curated list of awesome astrophysical simulation software
 - [Numerical Method](#numerical-method)
 - [Physics](#physics)
 - [High-Performance Features](#high-performance-features)
+- [Additional Lists](#additional-lists)
 - [Contribute](#contribute)
 
 ## Code List
@@ -96,6 +97,9 @@ A curated list of awesome astrophysical simulation software
 | REBOUND   | 🟩️  |     |
 | SWIFT     | 🟩️  |     |
 
+
+## Additional Lists
+- [HEP-ASTRO-COSMO](https://github.com/nikosarcevic/HEP-ASTRO-COSMO/blob/main/README.md#mhd)
 
 ## Contribute
 
