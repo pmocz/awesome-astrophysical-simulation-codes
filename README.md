@@ -23,6 +23,7 @@ A curated list of awesome astrophysical simulation software
 | [Enzo](https://enzo-project.org/) | Adaptive Mesh Refinement Code for Astrophysics. | ![](https://skillicons.dev/icons?i=c)  | [![](https://skillicons.dev/icons?i=github)](https://github.com/enzo-project/enzo-dev) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2014ApJS..211...19B/abstract) |
 | [FLASH](https://flash.rochester.edu/site/flashcode/) | Adaptive Mesh Hydrodynamics Code for Modeling Astrophysical Thermonuclear Flashes. | ![](https://skillicons.dev/icons?i=fortran) |  | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2000ApJS..131..273F/abstract) |
 | [Gadget](https://wwwmpa.mpa-garching.mpg.de/gadget4/) | Parallel cosmological N-body and SPH code. | ![](https://skillicons.dev/icons?i=c) | [![](https://skillicons.dev/icons?i=gitlab)](https://gitlab.mpcdf.mpg.de/vrs/gadget4) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2022ascl.soft04014S/abstract) |
+| [GAMER](https://github.com/gamer-project/gamer/wiki) | GPU-accelerated Adaptive Mesh Refinement code for astrophysics. | ![](https://skillicons.dev/icons?i=cpp) | [![](https://skillicons.dev/icons?i=gitlab)](https://github.com/gamer-project/gamer) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2010ApJS..186..457S/abstract) |
 | [Gizmo](http://www.tapir.caltech.edu/~phopkins/Site/GIZMO.html) | Flexible, massively-parallel, multi-physics simulation code. | ![](https://skillicons.dev/icons?i=c) | [![](https://skillicons.dev/icons?i=gitlab)](https://bitbucket.org/phopkins/gizmo-public/src/master/) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2015MNRAS.450...53H/abstract) |
 | [Pencil](http://pencil-code.nordita.org/) | High-order finite-difference code for compressible hydrodynamic flows with magnetic fields and particles. | ![](https://skillicons.dev/icons?i=fortran) | [![](https://skillicons.dev/icons?i=github)](https://github.com/pencil-code/pencil-code) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2010ascl.soft10060B/abstract) |
 | [PHANTOM](https://phantomsph.github.io/) | Smoothed particle hydrodynamics and magnetohydrodynamics code for astrophysics. | ![](https://skillicons.dev/icons?i=fortran) | [![](https://skillicons.dev/icons?i=github)](https://github.com/danieljprice/phantom) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2018PASA...35...31P/abstract) |
@@ -47,6 +48,7 @@ A curated list of awesome astrophysical simulation software
 | Enzo      |                   | 🟩️️️️️            |                |          |     |        | 🟩️️️️️       |     |            | 🟩️️️️️  |
 | FLASH     |                   | 🟩️️️️️            |                |          |     |        | 🟩️️️️️       |     |            | 🟩️️️️️  |
 | Gadget    |                   |               |                |          | 🟩️️️️️  | 🟩️️️️️     |          |     | 🟩️️️️️         |     |
+| GAMER     |                   | 🟩️️️️️            |                |          |     |        | 🟩️️️️️       |     |            | 🟩️️️️️  |
 | Gizmo     |                   | 🟩️️️️️            |                |          |     | 🟩️️️️️     |          |     | 🟩️️️️️         |     |
 | Pencil    | 🟩️️️️️                |               |                |          |     |        | 🟩️️️️️       |     |            |     |
 | PLUTO     | 🟩️️️️️                | 🟩️            |                |          |     |        | 🟩️️️️️       |     |            | 🟩️  |
@@ -71,6 +73,7 @@ A curated list of awesome astrophysical simulation software
 | Enzo      | 🟩️            | 🟩️  | 🟩️        | 🟩️           |                    |
 | FLASH     | 🟩️            | 🟩️  | 🟩️        | 🟩️           |                    |
 | Gadget    | 🟩️            |     |           | 🟩️           |                    |
+| GAMER     | 🟩️️️️️            | 🟩️️️️️  | 🟩️️️️️        | 🟩️️️️️           |                    |
 | Gizmo     | 🟩️            | 🟩️  | 🟩️        | 🟩️           |                    |
 | Pencil    | 🟩️            | 🟩️  |           | 🟩️           |                    |
 | PLUTO     | 🟩️            | 🟩️  |           |              |                    |
@@ -95,6 +98,7 @@ A curated list of awesome astrophysical simulation software
 | Enzo      | 🟩️  |     | 
 | FLASH     | 🟩️  |     | 
 | Gadget    | 🟩️  |     | 
+| GAMER     | 🟩️️️️️  | 🟩️️️️️  |
 | Gizmo     | 🟩️  |     | 
 | Pencil    | 🟩️  |     | 
 | PLUTO     | 🟩️️️️️  |     | 
