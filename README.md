@@ -19,6 +19,7 @@ A curated list of awesome astrophysical simulation software
 | [ChaNGa](https://faculty.washington.edu/trq/hpcc/tools/changa.html) | Charm N-body Gravity solver and SPH. | ![](https://skillicons.dev/icons?i=c)  | [![](https://skillicons.dev/icons?i=github)](https://github.com/N-BodyShop/changa) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2011ascl.soft05005N/abstract) |
 | [Cholla](https://github.com/cholla-hydro/cholla/wiki) | GPU-based hydro code. | ![](https://skillicons.dev/icons?i=cpp)  | [![](https://skillicons.dev/icons?i=github)](https://github.com/cholla-hydro/cholla) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2016ascl.soft07006S/abstract) |
 | [Dedalus](https://dedalus-project.org/) | Flexible framework for solving PDEs with modern spectral methods. | ![](https://skillicons.dev/icons?i=python) | [![](https://skillicons.dev/icons?i=github)](https://github.com/DedalusProject/dedalus) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2020PhRvR...2b3068B/abstract)  |
+| [Einstein Toolkit](https://einsteintoolkit.org/) | Community computational infrastructure for relativistic astrophysics. | ![](https://skillicons.dev/icons?i=cpp) | [![](https://skillicons.dev/icons?i=github)](https://github.com/EinsteinToolkit) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2012CQGra..29k5001L/abstract)  |
 | [Enzo](https://enzo-project.org/) | Adaptive Mesh Refinement Code for Astrophysics. | ![](https://skillicons.dev/icons?i=c)  | [![](https://skillicons.dev/icons?i=github)](https://github.com/enzo-project/enzo-dev) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2014ApJS..211...19B/abstract) |
 | [FLASH](https://flash.rochester.edu/site/flashcode/) | Adaptive Mesh Hydrodynamics Code for Modeling Astrophysical Thermonuclear Flashes. | ![](https://skillicons.dev/icons?i=fortran) |  | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2000ApJS..131..273F/abstract) |
 | [Gadget](https://wwwmpa.mpa-garching.mpg.de/gadget4/) | Parallel cosmological N-body and SPH code. | ![](https://skillicons.dev/icons?i=c) | [![](https://skillicons.dev/icons?i=gitlab)](https://gitlab.mpcdf.mpg.de/vrs/gadget4) | [<img src="https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg" width="45" height="40">](https://ui.adsabs.harvard.edu/abs/2022ascl.soft04014S/abstract) |
@@ -42,6 +43,7 @@ A curated list of awesome astrophysical simulation software
 | ChaNGa    |                   |               |                |          | 🟩️️️️️  | 🟩️️️️️     |          |     | 🟩️️️️️         |     |
 | Cholla    |                   | 🟩️️️️️            |                |          |     |        | 🟩️️️️️       |     |            |     |
 | Dedalus   |                   |               |                | 🟩️️️️️       |     |        | 🟩️️️️️       |     |            |     |
+| Einstein Toolkit | 🟩️         | 🟩️            |                | 🟩️️️️️       |     |        | 🟩️️️️️       |     |            |     |
 | Enzo      |                   | 🟩️️️️️            |                |          |     |        | 🟩️️️️️       |     |            | 🟩️️️️️  |
 | FLASH     |                   | 🟩️️️️️            |                |          |     |        | 🟩️️️️️       |     |            | 🟩️️️️️  |
 | Gadget    |                   |               |                |          | 🟩️️️️️  | 🟩️️️️️     |          |     | 🟩️️️️️         |     |
@@ -53,7 +55,7 @@ A curated list of awesome astrophysical simulation software
 | RAMSES    |                   | 🟩️️️️️            |                |          |     | 🟩️️️️️     | 🟩️️️️️       |     |            | 🟩️️️️️  |
 | REBOUND   |                   |               |                |          |     | 🟩️️️️️     |          |     |            |     |
 | SWIFT     |                   |               |                |          | 🟩️️️️️  | 🟩️️️️️     |          |     | 🟩️️️️️         |     |
-| TARDIS     |                   |               |                | 🟩️️️️️         |   |      |          |     |          |     |
+| TARDIS     |                  |               |                | 🟩️️️️️       |     |        |          |     |            |     |
 
 
 ## Physics
@@ -65,6 +67,7 @@ A curated list of awesome astrophysical simulation software
 | ChaNGa    | 🟩️            |     |           | 🟩️           |                    |
 | Cholla    | 🟩️            |     | 🟩️        | 🟩️           |                    |
 | Dedalus   | 🟩️            | 🟩️  |           | 🟩️           |                    |
+| Einstein Toolkit | 🟩️     | 🟩️  |           | 🟩️           | 🟩️                 |
 | Enzo      | 🟩️            | 🟩️  | 🟩️        | 🟩️           |                    |
 | FLASH     | 🟩️            | 🟩️  | 🟩️        | 🟩️           |                    |
 | Gadget    | 🟩️            |     |           | 🟩️           |                    |
@@ -76,7 +79,7 @@ A curated list of awesome astrophysical simulation software
 | RAMSES    | 🟩️            | 🟩️  | 🟩️        | 🟩️           |                    |
 | REBOUND   |               |     |           | 🟩️           |                    |
 | SWIFT     | 🟩️            |     |           | 🟩️           |                    |
-| TARDIS     |             |     | 🟩️          |           |                    |
+| TARDIS    |               |     | 🟩️         |             |                    |
 
 
 ## High-Performance Features
@@ -88,6 +91,7 @@ A curated list of awesome astrophysical simulation software
 | ChaNGa    | 🟩️️️️️  |     | 
 | Cholla    | 🟩️️️️️  | 🟩️️️️️  |
 | Dedalus   | 🟩️  |     | 
+| Einstein Toolkit   | 🟩️  |     | 
 | Enzo      | 🟩️  |     | 
 | FLASH     | 🟩️  |     | 
 | Gadget    | 🟩️  |     | 
