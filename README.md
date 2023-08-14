@@ -8,7 +8,6 @@ A curated list of awesome astrophysical simulation software
 - [Physics](#physics)
 - [High-Performance Features](#high-performance-features)
 - [Additional Lists](#additional-lists)
-- [Contribute](#contribute)
 
 ## Code List
 
