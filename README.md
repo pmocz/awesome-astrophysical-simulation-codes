@@ -126,7 +126,7 @@ A curated list of awesome astrophysical simulation software
 
 ## Contribute
 
-Contributions to the list are welcome! Contributing guidelines can be found in [contributing.md](contributing.md) 
+Contributions to the list are welcome! Contributing guidelines can be found in [CONTRIBUTING.md](CONTRIBUTING.md) 
 
 <!---
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
